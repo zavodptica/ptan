@@ -4,7 +4,7 @@ PTAN stands for PyTorch AgentNet -- reimplementation of AgentNet library for pyt
 import setuptools
 
 
-requirements = ['torch==1.8.0', 'gym', 'atari-py', 'numpy', 'opencv-python']
+requirements = ['torch==1.8.1', 'gym', 'atari-py', 'numpy', 'opencv-python']
 
 
 setuptools.setup(
